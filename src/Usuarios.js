@@ -3,4 +3,4 @@ export default function Usuario() {
     return (
       <Usuarios/>  
     );
-  };
+  };  
