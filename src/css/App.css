@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.RecuperarContrasenia{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: right;
+}
+.menu{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+@import "rsuite/dist/rsuite.css";
