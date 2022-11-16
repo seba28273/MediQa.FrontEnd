@@ -45,4 +45,17 @@
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.tablausuarios{
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: center;
+background-color: beige;
+width: 100%;
+}
+.tablausuarios td{
+  border: 1px solid black;
+  padding: 10px;
+} 
+
 @import "rsuite/dist/rsuite.css";
