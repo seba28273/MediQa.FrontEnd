@@ -1,6 +1,6 @@
-import Usuarios from "./Components/Usuarios";
+import UsuariosSuite from "./Components/UsuariosSuites";
 export default function Usuario() {
     return (
-      <Usuarios/>  
+      <UsuariosSuite/>  
     );
   };  
